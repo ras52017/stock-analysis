@@ -22,7 +22,8 @@
 - What are two conclusions you can draw about the Outcomes
 1. An observation was that the analysis after refactoring was faster for both years than the analysis for AllStocksAnalysis1. It took a total of 0.046875 seconds for the refactored analysis for 2018 and  0.04296875 seconds for 2017. These outcomes were both faster than the analysis completed for AllStocksAnalysis1 which run at 0.6210938 seconds for 2017 and 0.6328125 seconds for 2017.
 
-![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
+![image]([https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png](https://github.com/ras52017/stock-analysis/blob/main/Resources/VBA_Challenge_2017(pop-up).png))
+
 
 
 2. Another observation is that within both analysis(AllStocksAnalysis1 and refractored), there was a slight difference in the time it took to complete each analysis when comparing 2017 1n
