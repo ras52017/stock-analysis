@@ -20,9 +20,12 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes
-1. An observation was that the analysis after refactoring was faster for both years than the analysis for AllStocksAnalysis1. It took a total of 0.046875 seconds for the refactored analysis for 2018 and  0.04296875 seconds for 2017. These outcomes were both faster than the analysis completed for AllStocksAnalysis1 which run at 0.6210938 seconds for 2017 and 0.6328125 seconds for 2017
+1. An observation was that the analysis after refactoring was faster for both years than the analysis for AllStocksAnalysis1. It took a total of 0.046875 seconds for the refactored analysis for 2018 and  0.04296875 seconds for 2017. These outcomes were both faster than the analysis completed for AllStocksAnalysis1 which run at 0.6210938 seconds for 2017 and 0.6328125 seconds for 2017.
 
-2. Another observation is that within both analysis(AllStocksAnalysis1 and refractored), there was a slight difference in the time it took to complete each analysis when comparing 2017 1nd 2018 times. 
+![image](https://user-images.githubusercontent.com/111700418/187080817-158b6a25-50ce-4825-a872-96da324ac2a2.png)
+
+
+2. Another observation is that within both analysis(AllStocksAnalysis1 and refractored), there was a slight difference in the time it took to complete each analysis when comparing 2017 1n
 
 3. In general, the stocks did better in 2017 than in 2018 except for the Stock RUN which did better in 2018 than in 2017. Also, eventhough TERP did not do well in both years, it's performance were slighlty better in 2018 than that of 2017.
 
